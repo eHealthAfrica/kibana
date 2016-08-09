@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "bower": "^1.4.1",
-    "bower-license": "^0.2.6",
+    "bower-license": "^0.4.3",
     "event-stream": "^3.1.5",
     "expect.js": "^0.3.1",
     "grunt": "^0.4.5",
