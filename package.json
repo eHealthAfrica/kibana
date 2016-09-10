@@ -54,7 +54,7 @@
     "js-yaml": "^3.2.5",
     "lodash": "^2.4.1",
     "request": "^2.40.0",
-    "requirefrom": "^0.2.0",
+    "requirefrom": "^0.2.1",
     "semver": "^4.2.0",
     "serve-favicon": "^2.2.0",
     "through": "^2.3.6"
